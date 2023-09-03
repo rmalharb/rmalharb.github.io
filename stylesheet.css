@@ -174,7 +174,7 @@ section h1 {
 }
 
 section h2 {
-  font-size: 5px; /* Adjust the font size as needed */
+  font-size: 16px; /* Adjust the font size as needed */
 }
 
 /* Add this CSS to your stylesheet.css file */
@@ -183,6 +183,19 @@ h1, h2 {
   margin-right: 0.5px; /* Adjust the spacing between h1 and h2 as needed */
 }
 
-/* Other CSS styles remain the same */
+/* CSS for the large centered title */
+.title-section {
+  text-align: center;
+  margin-top: 40px; /* Adjust the margin as needed for spacing */
+}
+
+.large-title {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 48px; /* Adjust the font size as needed */
+  font-weight: 700;
+  color: #000; /* Adjust the color as desired */
+  margin-bottom: 20px; /* Add margin below the large title */
+}
+
 
 
