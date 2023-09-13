@@ -34,11 +34,12 @@ a:focus, a:hover {
 
 /* About Me section */
 section h1 {
-  margin-bottom: 10px; /* Reduce margin below "About Me" heading */
+  margin-bottom: 30px; /* Reduce margin below "About Me" heading */
 }
 
 section h2 {
   font-size: 16px; /* Adjust the font size as needed */
+   display: inline-block; 
 }
 
 /* Image styling */
@@ -46,6 +47,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+
+
 
 /* Image size adjustments for tablets */
 @media screen and (min-width: 768px) {
