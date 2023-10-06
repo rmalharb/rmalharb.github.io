@@ -172,6 +172,10 @@ table tr:nth-child(even) td{
   margin-bottom: 20px;
   border: 1px solid #ddd; /* Add a border for separation */
   padding: 10px; /* Add padding for spacing */
+  max-width: 1000px; /* Adjust the maximum width as needed */
+  margin-left: auto; /* Center the publication section on the page */
+  margin-right: auto; /* Center the publication section on the page */
+
 }
 
 .publication img {
